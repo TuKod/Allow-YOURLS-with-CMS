@@ -2,7 +2,7 @@
 /*
 Plugin Name: Allow YOURLS with CMS
 Plugin URI: http://tukod.com/tukod/allow-yourls-with-cms/
-Description: Allows YOURLS to work on the same domain name with a CMS like WordPress, Mambo, or Joomla.  See the <a href="http://github.com/ggwarpig/Yourls-Swap-Short-Url/blob/master/README.md">instructions</a>
+Description: Allows YOURLS to work on the same domain name with a CMS like WordPress, Mambo, or Joomla.  See the <a href="https://github.com/TuKod/Allow-YOURLS-with-CMS/blob/master/README.md">instructions</a>
 Version: 1.0
 Author: TuKod
 Author URI: http://alantait.net/
